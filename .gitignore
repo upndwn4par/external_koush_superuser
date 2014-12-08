@@ -7,3 +7,5 @@ gen
 .DS_Store
 .settings
 libs
+*~
+.*
